@@ -18,3 +18,15 @@ build
 record.txt
 miniconda.sh
 miniconda/
+
+logs
+results
+sge.py
+local.py
+Biohashing.py
+*.e
+*.o
+*.pdf
+experiments0
+scores-dev
+scores-eval
