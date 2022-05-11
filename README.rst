@@ -83,7 +83,7 @@ otherwise you need to set it `False` to run the experiments locally.
 
 Generating ROC Plots (Figure 2)
 --------------------------------
-To generate ROC plts (as in Figure 2 of the paper), you need to go to `evaluation/ROC <evaluation/ROC>`_ directory 
+To generate ROC plts (as in Figure 2 of the paper), you need to go to `./evaluation/ROC <evaluation/ROC>`_ directory 
 and run the bash file::
 
     $ cd evaluation/ROC
@@ -92,13 +92,13 @@ and run the bash file::
 Generating TMR-L_BioHash Plots (Figure 3)
 -------------------------------------------
 To generate TMR vs L_BioHash plots (as in Figure 3 of the paper), you can use the notebook which is available in 
-`evaluation/TMR_LBhsh <evaluation/TMR_LBhsh>`_ directory.
+`./evaluation/TMR_LBhsh <evaluation/TMR_LBhsh>`_ directory.
 
 
 Generating Table 1
 ------------------------
 To generate Table 1 of the paper, you can use the same notebook as for Figure 3, which is available in 
-`evaluation/TMR_LBhsh <evaluation/TMR_LBhsh>` directory.
+`./evaluation/TMR_LBhsh <evaluation/TMR_LBhsh>`_ directory.
 
 Contact
 -------
