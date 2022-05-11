@@ -4,7 +4,27 @@
  On the Recognition Performance of BioHashing on state-of-the-art Face Recognition models
 ============================================================================================================
 
-This package is part of the signal-processing and machine learning toolbox Bob_.
+
+.. image:: Blockdiagram.png
+   :scale: 50 %
+   :alt: map to buried treasure
+   :align: center
+
+   Block diagram of a Biohash-protected Face Recognition system.
+
+
+This package is part of the signal-processing and machine learning toolbox Bob_. 
+It contains the source code to reproduce the following paper::
+
+      @inproceedings{wifs2021_biohashing_sota_face,
+         title={On the Recognition Performance of BioHashing on state-of-the-art Face Recognition models},
+         author={Shahreza, Hatef Otroshi and Hahn, Vedrana Krivoku{\'c}a and Marcel, S{\'e}bastien},
+         booktitle={2021 IEEE International Workshop on Information Forensics and Security (WIFS)},
+         pages={1--6},
+         year={2021},
+         organization={IEEE}
+      }
+
 
 Installation
 ------------
