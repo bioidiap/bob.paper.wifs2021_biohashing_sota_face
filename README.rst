@@ -96,9 +96,9 @@ To run all the experiments, you can use ``run_experiments.sh`` as following::
 
     $ ./run_experiments.sh
 
-**Note:** In `./run_experiments.sh <run_experiments.sh>`_ file, there is a variable ``run_on_grid`` which 
-executes the task on computaion grid (using dask_). If you have computaion grid, you can set it `True`,
-otherwise you need to set it `False` to run the experiments locally.
+**Note:** In `./run_experiments.sh <run_experiments.sh>`_ file, there is a variable, ``run_on_grid``, to 
+execute the task on computaion grid (using dask_). If you have SGE computaion grid, you can set it `True`,
+otherwise you need to set it `False` and run the experiments locally.
 
 
 Generating ROC Plots (Figure 2)
